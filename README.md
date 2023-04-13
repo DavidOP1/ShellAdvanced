@@ -2,9 +2,9 @@
 Shell
 *Running the program :
 
-make all - will run the program 
+make all , will run the program 
 
-make clean - cleans the files created by make
+make clean , cleans the files created by make
 
 3.Prompt task:
  
