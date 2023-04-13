@@ -37,13 +37,23 @@ make clean - cleans the files created by make
 Example: more example will be seen in the picture.
 
 devz : if ....
+
  enter
+ 
 devz: then
+
 devz: command
+
 enter
+
 devz: else
+
 enter
+
 devz : command
+
 enter
+
 fi
+
 enter
