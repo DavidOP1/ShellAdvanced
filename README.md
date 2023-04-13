@@ -18,6 +18,10 @@ make clean - cleans the files created by make
  
  If the last command was !! , and you type !! again it will print an error that the command !! doesn't exist.
  
+ 8.Control C task:
+ 
+ After you press type C , the required string will be printed but you need to press ENTER afterwards to continue using the shell.
+ 
 10.Adding variables task:
  
  If you add the variable $person = David , and then you type again : $person = Tal , it will interptate the string : $David = Tal , so it will print and error , 
@@ -29,6 +33,10 @@ make clean - cleans the files created by make
  Example can be seen in screenshot.
  
  12.Arrow task:
+ 
+ Works the same as in a real shell. If your page up too much it will print that youre out of commands so page down.
+ 
+ It only prints the command , you cant run it , since there was no such requirement in the h.w file.
  
 13.IF/ELSE task:
  
