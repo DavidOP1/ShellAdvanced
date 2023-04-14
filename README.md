@@ -36,7 +36,12 @@ make clean , cleans the files created by make
  
  Works the same as in a real shell. If your page up too much it will print that youre out of commands so page down.
  
- It only prints the command , you cant run it , since there was no such requirement in the h.w file.
+ It only prints the command , then the prompt will appear , if you keep the command input empty(you can enter spaces) and hit enter it will enter the command
+ 
+ printed from the arrow history. See example below:
+ 
+ ![arrow-shell](https://user-images.githubusercontent.com/54214707/232021224-50fa4fbc-1c59-4ea9-aba1-6206feafdbd4.png)
+
  
 13.IF/ELSE task:
  
@@ -65,3 +70,8 @@ enter
 fi
 
 enter
+
+Example:
+
+![shell-seond](https://user-images.githubusercontent.com/54214707/232021506-0812bad7-5384-4a77-a516-9f5f82b619c4.png)
+
