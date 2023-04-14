@@ -7,10 +7,6 @@
 #include <termios.h>
 #include <sys/wait.h>
 
-int check_not_shell(){
-    return 0;
-}
-void mem_res(){}
 volatile int flag_c = 0;
 
 /// @brief //////////////////////////SIGNAL FUNCTION TO CATCH THE CONTROL C SIGNAL////////////////
