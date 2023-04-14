@@ -22,6 +22,13 @@ make clean , cleans the files created by make
  
  After you press type C , the required string will be printed but you need to press ENTER afterwards to continue using the shell.
  
+ 9.PIPE:
+ 
+ Example:
+ 
+ ![shell -pipe](https://user-images.githubusercontent.com/54214707/232068689-4ab828cf-5dbd-41f7-a031-a15bfa736a90.png)
+
+ 
 10.Adding variables task:
  
  If you add the variable $person = David , and then you type again : $person = Tal , it will interptate the string : $David = Tal , so it will print and error , 
@@ -74,4 +81,9 @@ enter
 Example:
 
 ![shell-seond](https://user-images.githubusercontent.com/54214707/232021506-0812bad7-5384-4a77-a516-9f5f82b619c4.png)
+
+Main Shell Example:
+
+
+![first-shell](https://user-images.githubusercontent.com/54214707/232068783-54d65169-4cbd-4df0-976a-cc7d3b62271c.png)
 
